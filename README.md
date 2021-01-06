@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![https://img.shields.io/badge/albert-4-blueviolet.svg](https://alfredapp.com)
+[![Albert: 4](https://img.shields.io/badge/albert-4-blueviolet.svg)](https://alfredapp.com)
 
 # aws-alfred-snippets
 
