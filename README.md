@@ -37,11 +37,11 @@ A collection is a zip archive with the file extension ```.alfredsnippets```.  At
    
 ## Contributing
 
-My hope is that people will contribute.  In the absence of contributions however I'll just grind through all the AWS services as I find the time.  There are a couple of particular problems with this process and they are these: 1) What should the keyword be and 2) what should the name be.  The latter is less important and is really about organizing the list of snippets because there will be so many.  The former is much more important because it may make the expansion usable or not.  If it's too obscure it won't be used, if it's too parsimonious it won't be remembered, if it's too verbose it will be easier to do with out it.  I don't know a way to solve this.  I was wondering if I should do a poll on each new addition or some sort of roadtest.  I'm open to suggestions.
+My hope is that people will contribute.  In the absence of contributions however I'll just grind through all the AWS services as I find the time.  There are a couple of particular problems with this process and they are these: 1) What should the keyword be and 2) what should the name be.  The latter is less important and is really about organizing the list of snippets because there will be so many.  The former is much more important because it may make the expansion usable or not.  If it's too obscure it won't be used, if it's too parsimonious it won't be remembered, if it's too verbose it will be easier to do with out it.  I don't know a way to solve this.  I was wondering if I should do a poll on each new addition or some sort of roadtest.  Or, possibly there is a pattern I can discern based on capitlization in the text or something else.  I'm open to suggestions.
 
 As I mention above, I won't accept PR's on the ```info.plist``` file. 
 
-I will use [semver][https://semver.org) for the version numbers.  A breaking change (and major version increment) will be where any of the keywords have changed. A non-breaking change and minor version increment will be the addition of new snippets.  A patch will be correction of a name or text expansion (snippet).   
+I will use [semver](https://semver.org) for the version numbers.  A breaking change (and major version increment) will be where any of the keywords have changed. A non-breaking change and minor version increment will be the addition of new snippets.  A patch will be correction of a name or text expansion (snippet).   
 
 ## Analytics
 
